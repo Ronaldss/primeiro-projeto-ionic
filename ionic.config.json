@@ -1,0 +1,7 @@
+{
+  "name": "Coiso",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
